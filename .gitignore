@@ -1,3 +1,4 @@
-Algo/include
-Algo/bin
-Algo/lib
+.DS_Store
+Algo_study/include/
+Algo_study/bin/
+Algo_study/lib/
